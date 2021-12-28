@@ -1,0 +1,20 @@
+
+Linear Actuators:				yes
+	https://www.youtube.com/watch?v=NLscbeoIjAY
+		https://www.thingiverse.com/thing:4749783
+	https://www.youtube.com/watch?v=2vAoOYF3m8U
+
+Wheels:						yes
+Wheel Rotational Positioning System:		yes
+Suspension Arm Rotational Positioning System:	yes
+In-Wheel Drive Motors:				no
+Linear Actuator Motors:				no
+Wheel Rotation Motors:				no
+Batteries:					no
+Battery Case:					yes
+Suspension Arm Rotation Motors:			no
+Suspension System Struts:			yes
+Body Hull:					yes
+Camera Array:					no
+On-Board Computational Unit:			no
+Precision Rotary Encoders:			no

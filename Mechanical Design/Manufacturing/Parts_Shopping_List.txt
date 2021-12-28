@@ -1,0 +1,30 @@
+# Parts we have to buy or scrap from somewhere else:
+
+In-Wheel Drive Motors,
+Linear Actuator Motors,
+Wheel Rotation Motors,
+Batteries,
+Suspension Arm Rotation	Motors,
+Camera Array,
+On-Board Computational Unit,
+Precision Rotary Encoders
+
+### Required
+Drive:
+	2x Motor Driver:		https://www.conrad.ch/de/p/joy-it-motormodul-2-u-4-phasen-6-bis-12v-1573541.html
+	1x Price:			7.00	CHF
+	
+	4x Motors:			https://www.conrad.ch/de/p/carson-modellsport-cup-machine-automodell-brushed-elektromotor-28000-u-min-windungen-turns-23-1179402.html#specification
+	1x Price:			12.00	CHF
+
+
+
+	Total:				62.00	CHF
+
+
+	
+### Optional
+Upper-Upper Leg:
+	# Reduces friction
+	4x Ball Bearings:		https://www.amazon.de/-/en/pieces-688-2RS-rubber-groove-bearing/dp/B07H4TCD6W/ref=sr_1_3?crid=32HNWYYF8M67T&keywords=kugellager+5mmx16+mm&qid=1640699984&sprefix=kugellager+5mmx16mm%2Caps%2C73&sr=8-3
+	10x Price:			13.00	CHF
