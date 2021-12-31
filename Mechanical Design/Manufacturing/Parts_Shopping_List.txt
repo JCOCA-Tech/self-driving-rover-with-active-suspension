@@ -25,6 +25,7 @@ Drive:
 	
 ### Optional
 Upper-Upper Leg:
-	# Reduces friction
+	# Is optional but reduces friction under load
+	# The 3D printed ball bearings do not perform as well
 	4x Ball Bearings:		https://www.amazon.de/-/en/pieces-688-2RS-rubber-groove-bearing/dp/B07H4TCD6W/ref=sr_1_3?crid=32HNWYYF8M67T&keywords=kugellager+5mmx16+mm&qid=1640699984&sprefix=kugellager+5mmx16mm%2Caps%2C73&sr=8-3
 	10x Price:			13.00	CHF
